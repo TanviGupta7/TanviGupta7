@@ -1,59 +1,88 @@
-# Hi 👋 I'm Tanvi Gupta
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=TANVI%20GUPTA&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-A passionate **Backend Developer | AI & IoT Enthusiast | Drone Autonomy Researcher from India 🇮🇳**
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=TanviGupta7">
+    <img src="https://komarev.com/ghpvc/?username=TanviGupta7&label=Profile%20views&color=00FFFF&style=flat-square" alt="TanviGupta7's profile views" />
+  </a>
+</p>
 
-📧 Email me 👉 **[guptanvi7623@gmail.com](mailto:guptanvi7623@gmail.com)** for collaboration, projects, or tech discussions.
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 
----
+## 📌 About Me
+- 🎓 A curious IIoT engineering student at USAR, GGSIPU, driven by the excitement of building technology that actually helps people
+- 💻 A backend developer and problem solver who enjoys turning complex ideas into working systems
+- 🤖 Deeply fascinated by AI, robotics, autonomous systems, and intelligent machines
+- 🚁 Currently exploring autonomous drone landing on moving vehicles, combining computer vision, AI, and real-world engineering
+- 🚀 Co-founder of MDISE, believing that ideas become powerful when they create real impact
+- 🤝 Open to collaborate on: meaningful projects in AI, robotics, backend systems, and innovative tech solutions
+- 🧠 Looking for guidance in: advanced computer vision, autonomous navigation, and large-scale distributed systems
+- 🌱 Future vision: to build intelligent technologies that improve safety, mobility, and everyday life
+- 🎯 Objective: grow into an engineer who designs systems that solve real problems at scale
+- 🌟 Inspired by: people who build bold ideas, challenge limits, and use technology to make the world better
+- ⚖️ Principles: curiosity, perseverance, humility, and continuous learning
+- 💎 Values: integrity, creativity, collaboration, and impact over recognition
+- 🚀 Aspiration: to become an engineer who builds innovative autonomous systems that push technology forward and help society
+- 🌍 Vision: Be part of bold, global innovations.
+- ⚡ Looking for: Opportunities where Passion, Miracles, persistence, and big ideas create extraordinary outcomes.
 
-🔭 **Currently working on:**
-Autonomous Drone Landing on a Moving Vehicle using Computer Vision & Sensor Fusion
 
-🌱 **Currently learning:**
-Advanced Backend Systems, Distributed Systems, Kafka, Cloud & DevOps
+## 🧠 My Focus Areas
+- AI & Computer Vision
+- Autonomous Systems & Robotics
+- Backend Systems & Microservices
+- IoT & Smart Devices
+- Drone Technology
+- Real-time Data Systems
 
-👯 **Looking to collaborate on:**
-AI, Robotics, Drone Technology, Backend Systems, and Open Source projects
 
-🤔 **Looking for help with:**
-Optimizing real-time computer vision pipelines for autonomous UAV systems
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/TanviGupta7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TanviGupta7&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="TanviGupta7's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=TanviGupta7&theme=radical&hide_border=true&cache_seconds=86400" alt="TanviGupta7's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=TanviGupta7&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="TANVI GUPTA's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=TanviGupta7&theme=radical&radius=10" alt="TanviGupta7's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-💬 **Ask me about:**
-Backend Development, System Design, AI, IoT, Robotics, and Hackathons
 
-📫 **How to reach me:**
-Email: **[guptanvi7623@gmail.com](mailto:guptanvi7623@gmail.com)**
-LinkedIn: **linkedin.com/in/tanvi-gupta7623**
+## 🛠️ Languages & Tools
 
-⚡ **Fun fact:**
-I build tech that solves real-world problems — from **autonomous drones to safety analytics systems** 🚀
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanvi-gupta7623/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@guptanvi7623) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptanvi7623@gmail.com) 
+> ## Backend
+<p align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /></p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanviGupta7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TanviGupta7&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanviGupta7&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-<!-- Snake Game Repo View -->
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/TanviGupta7">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TanviGupta7&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/tanvi-gupta7623/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/7906594297" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:guptanvi7623@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanviGupta7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TanviGupta7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=TanviGupta7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
